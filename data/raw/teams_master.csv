@@ -1,0 +1,31 @@
+team_id,team_name,league,division
+ARI,Arizona Diamondbacks,NL,NL West
+ATL,Atlanta Braves,NL,NL East
+BAL,Baltimore Orioles,AL,AL East
+BOS,Boston Red Sox,AL,AL East
+CHC,Chicago Cubs,NL,NL Central
+CWS,Chicago White Sox,AL,AL Central
+CIN,Cincinnati Reds,NL,NL Central
+CLE,Cleveland Guardians,AL,AL Central
+COL,Colorado Rockies,NL,NL West
+DET,Detroit Tigers,AL,AL Central
+HOU,Houston Astros,AL,AL West
+KCR,Kansas City Royals,AL,AL Central
+LAA,Los Angeles Angels,AL,AL West
+LAD,Los Angeles Dodgers,NL,NL West
+MIA,Miami Marlins,NL,NL East
+MIL,Milwaukee Brewers,NL,NL Central
+MIN,Minnesota Twins,AL,AL Central
+NYM,New York Mets,NL,NL East
+NYY,New York Yankees,AL,AL East
+OAK,Oakland Athletics,AL,AL West
+PHI,Philadelphia Phillies,NL,NL East
+PIT,Pittsburgh Pirates,NL,NL Central
+SDP,San Diego Padres,NL,NL West
+SEA,Seattle Mariners,AL,AL West
+SFG,San Francisco Giants,NL,NL West
+STL,St. Louis Cardinals,NL,NL Central
+TBR,Tampa Bay Rays,AL,AL East
+TEX,Texas Rangers,AL,AL West
+TOR,Toronto Blue Jays,AL,AL East
+WSN,Washington Nationals,NL,NL East
