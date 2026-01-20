@@ -37,8 +37,3 @@ python -m src.pipeline
 ## Screenshots
 - `outputs/figures/league_attendance_trend.png`
 - `outputs/figures/demand_vs_price.png`
-
-## Resume bullets
-- Built an MLB-wide club benchmarking system (CPI) with demand, revenue, and operational efficiency proxies across 30 teams.
-- Developed a revenue opportunity simulator translating pricing, marketing, and performance shifts into executive-ready impact ranges.
-- Automated club strategy memos with top drivers and recommendations across ticketing, marketing, and sponsorship.
